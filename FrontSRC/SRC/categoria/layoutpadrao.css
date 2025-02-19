@@ -1,0 +1,61 @@
+.body{
+    height: 100vh;
+    margin: 0%;
+    font-size: 20px;
+}
+.cabecalho{
+     background-color:yellow (255, 72, 0) ;
+     display: flex;
+     flex-direction: row;
+     height: 50px;
+     align-items: center;
+     justify-content: center;
+}
+.menu{
+    width: 80%;
+    display: flex;
+    justify-content: start;
+    padding-left: 20px;
+}
+.perfil{
+    width: 20%;
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+}
+.itenmenu{
+    margin-right: 10px;
+    background-color: rgb(61, 144, 144);
+    color: #ffff;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.itenmenu:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.pessoa{
+    margin-right: 20px;
+    color: rgb(61,144,144);
+}
+.loginlogoff{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(129, 11,5);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border-radius: 10px
+}
+.loginlogoff:hover{
+    background-color: yellow;
+    color: black;
+}
+.pagina{
+    bor  
+}
