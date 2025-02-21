@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarde.cetafest\\Documents\\git\\dbalmoxarifado\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {}
+    "C:\\Users\\tarde.cetafest\\Documents\\Clemison\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarde.cetafest\\Documents\\git\\dbalmoxarifado\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {
+    "C:\\Users\\tarde.cetafest\\Documents\\Clemison\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\git\\dbalmoxarifado\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\Clemison\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
         "projectName": "AlmoxarifadoBackAPI",
-        "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\git\\dbalmoxarifado\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+        "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\Clemison\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
         "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\git\\dbalmoxarifado\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+        "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\Clemison\\dbalmoxarifado\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
